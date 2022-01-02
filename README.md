@@ -8,3 +8,4 @@ Written in Python 3.9
 Task | Solution | Comments
 ---  | ---      | ---
 Day 1 | [solve.py](01-chronal-calibration/solve.py) | Add and subtract and find a cycle
+Day 2 | [solve.py](02-inventory-management-system/solve.py) | Get distance between strings
